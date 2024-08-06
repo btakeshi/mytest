@@ -1,0 +1,3 @@
+(setq YaTeX:documentclasses-local '(
+("ltjsarticle")
+))
